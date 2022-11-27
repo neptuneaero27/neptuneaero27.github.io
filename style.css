@@ -1,7 +1,7 @@
 /* General Rules */
 
 body{
-    background-color: CornflowerBlue;
+    background-color: #0A0A0F;
     font-family: Helvetica;
 }
 
@@ -14,16 +14,16 @@ body{
 }
 
 .header{
-    background-color: GhostWhite;
+    background-color: #3D3D5C;
     border-radius: 15px;
     border-style: Solid;
-    text-align: Center;
+    padding-left: 15px;
     height: 75px; 
     width: 100%;
 }
 
 .content{
-    background-color: GhostWhite;
+    background-color: #666699;
     border-style: Dashed;
     border-radius: 10px;
     padding-left: 15px;
@@ -32,16 +32,15 @@ body{
 }
 
 .footer {
-    background-color: DodgerBlue;
+    background-color: #4C4C73;
     border-radius: 15px;
-    padding-left: 15px;
+    text-align: Center;
     margin-right: auto;
     margin-left: auto;
     margin-top: 265px;
     border: Solid;
     height: 50px;
     width: 515px;
-    
 }
 
 /* IDs */
